@@ -1,4 +1,4 @@
-## Hi there I'm Isuru Senadheera👋
+## Hi there👋 I'm Isuru Senadheera.
 
 <!--
 **Isuru200028/Isuru200028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
